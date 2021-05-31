@@ -1,5 +1,5 @@
 {
-  "name": "asana-actions",
+  "name": "asana-actionss",
   "version": "2.1.4",
   "description": "",
   "main": "asana.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ExodusMovement/asana-actions.git"
+    "url": "git+https://github.com/ExodusMovement/asana-actionss.git"
   },
   "keywords": [],
   "author": "",
