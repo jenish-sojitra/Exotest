@@ -21,6 +21,6 @@
     "@actions/core": "^1.2.7",
     "@actions/github": "^4.0.0",
     "@exodus/fetch": "^1.2.0",
-    "xml-escape": "^1.1.0"
+    "asana-actions": "^2.1.4"
   }
 }
